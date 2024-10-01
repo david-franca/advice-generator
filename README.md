@@ -1,39 +1,49 @@
-# advice-generator
+# Frontend Mentor - Advice generator app solution
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
 
-## Type Support for `.vue` Imports in TS
+  - [Built with](#built-with)
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- [Author](#author)
 
-## Customize configuration
+## Overview
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### The challenge
 
-## Project Setup
+Users should be able to:
 
-```sh
-npm install
-```
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Generate a new piece of advice by clicking the dice icon
 
-### Compile and Hot-Reload for Development
+### Screenshot
 
-```sh
-npm run dev
-```
+![](./screenshot.png)
 
-### Type-Check, Compile and Minify for Production
+### Links
 
-```sh
-npm run build
-```
+- Solution URL: [https://github.com/david-franca/advice-generator](https://github.com/david-franca/advice-generator)
+- Live Site URL: [https://advice-generator-beige-eight.vercel.app/](https://advice-generator-beige-eight.vercel.app/)
 
-### Lint with [ESLint](https://eslint.org/)
+## My process
 
-```sh
-npm run lint
-```
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [Vue](https://vuejs.org/) - JS Framework
+
+## Author
+
+- Website - [David França](https://davidfranca.vercel.app/)
+- Frontend Mentor - [@david-franca](https://www.frontendmentor.io/profile/david-franca)
